@@ -1,6 +1,10 @@
+
+//User logic
 $(document).ready(function() {
-  $("#blanks form").submit(function(event) {
-  
-    event.preventDefault();
+  //submit form
+ $("#SubmitNum").submit(function(event) {
+     event.preventDefault();
+     input = parseInt($())
+
   });
 });
