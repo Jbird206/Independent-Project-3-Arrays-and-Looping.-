@@ -10,7 +10,7 @@ function myFunction() {
       returnvalue = "Boop";
     };
     if (i.toString().includes("3")) {
-      returnvalue = "DAVE";
+      returnvalue = "I'm sorry Dave, I can't do that";
     };
     myoutput = myoutput.concat(returnvalue, "<li>");
   }
