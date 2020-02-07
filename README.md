@@ -1,5 +1,5 @@
 # Independent-Project-3-Arrays-and-Looping.-
-Create a web application that takes a number from a user and returns a range of numbers from 0 to the user inputted number with exceptions if it contains certain digits.
+The objective of the assignment was to create a web application that takes a number from a user and returns a range of numbers from 0 to the user inputted number with exceptions if it contains certain digits.
 
 
 ## Beep, Boop, I don't think I can do that Dave. 
