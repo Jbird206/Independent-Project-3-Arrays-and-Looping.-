@@ -32,7 +32,7 @@ Any concerns visit please see my Github for contact information. Any contributio
 License
 Files are free to use and change, a notification of said use would be appreciated. See below for more details on licensing.
 
-Copyright (c) 2019 ** {Jason McGrady, current repo owner} **
+```Copyright (c) 2019 ** {Jason McGrady, current repo owner} **```
  
  
  ![image](https://user-images.githubusercontent.com/9637712/74005139-cd4d3800-492c-11ea-9789-e0988bf1fa99.png)
