@@ -13,3 +13,7 @@ Spec: The program returns a range of numbers from 0 to the users inputted number
  * Output: "0, 1, 2, 3, 4"
  ** Input: "9"
  * Output: "0, Beep, Boop, 'Dave', 4, 5, etc
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/9637712/74005139-cd4d3800-492c-11ea-9789-e0988bf1fa99.png)
+
