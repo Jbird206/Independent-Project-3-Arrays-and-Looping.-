@@ -17,22 +17,22 @@ Spec: The program returns a range of numbers from 0 to the users inputted number
 ```myoutput = myoutput.concat(returnvalue, "<li>" );```
  
 ## Setup/Installation Requirements
-Download the zip file from my Github repository at 
-visit, https://github.com/DayZMod/DayZ. For setting up the server and database visit, https://helpthedeadreturn.wordpress.com}
+Download the zip file from my Github repository at https://github.com/Jbird206/Independent-Project-3-Arrays-and-Looping.-. Unzip the folder onto your desktop, and open the index.html file inside. This will open the application inside your internet browser. Provide a number inside the input box of 'I'm Sorry Dave...', then click the button "compute" to demonstrate the Javascript.
 
-Known Bugs
-Currently BattlEye filters are unresolved for the various scripts and addons. Server/client files are for Dayzmod 1.90, due to potential updates to the core game files, unforseen issues may occur. Review your .RPT file for any potential issues.
+## Technologies used
+* HTML 
+* CSS
+* JS
+* VS Code
 
 Support and contact details
 Any concerns visit please see my Github for contact information. Any contributions or necessary updates, feel free to contact or leave a comment.
 
-Technologies Used
-Map addons and some mods created using the default editor, Arma 2 language and Notepad++ being the text editor.
 
 License
 Files are free to use and change, a notification of said use would be appreciated. See below for more details on licensing.
 
-Copyright (c) 2019 ** {Boba Fetish, current repo owner} **
+Copyright (c) 2019 ** {Jason McGrady, current repo owner} **
  
  
  ![image](https://user-images.githubusercontent.com/9637712/74005139-cd4d3800-492c-11ea-9789-e0988bf1fa99.png)
