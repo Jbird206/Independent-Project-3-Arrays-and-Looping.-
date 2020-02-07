@@ -1,6 +1,10 @@
+//front end logic//
+
 function myFunction() {
   input = document.getElementById("myNumber").value;
   myoutput = "";
+
+  //back end logic//
   for (i = 0; i <= input; i++) {
     returnvalue = i.toString();
     if (i.toString().includes("1")) {
